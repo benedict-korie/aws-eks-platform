@@ -120,7 +120,8 @@ terraform apply
 
 ## Author
 
-Benedict Korie — [LinkedIn](https://linkedin.com/in/benedict-chijindu-korie-4b29a837b) · [GitHub](https://github.com/Joshuche22)
+Benedict Korie — [LinkedIn](https://linkedin.com/in/benedict-chijindu-korie-4b29a837b) · [GitHub](https://github.com/benedict-korie)
+
 ## Git Workflow
 
 This repository follows a trunk-based development workflow with branch protection enforced on `main`.
